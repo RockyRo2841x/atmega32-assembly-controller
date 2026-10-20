@@ -1,0 +1,21 @@
+# Generated AVR build output
+Debug/
+Release/
+build/
+*.obj
+*.hex
+*.elf
+*.lss
+*.map
+*.tmp
+
+# IDE and simulator state
+.vs/
+*.atsuo
+*.workspace
+Project Backups/
+*.bak
+
+# Operating-system files
+Thumbs.db
+.DS_Store
