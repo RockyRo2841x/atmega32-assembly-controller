@@ -19,3 +19,6 @@ Project Backups/
 # Operating-system files
 Thumbs.db
 .DS_Store
+
+# Preserve the explicitly supplied Drive submission binary
+!submissions/google-drive/AssemblerApplication1.hex

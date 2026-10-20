@@ -1,5 +1,7 @@
 # ATmega32 Assembly Controller
 
+**Additional submission files and evidence:** see [Drive submission and evidence](docs/drive-evidence.md) for the separately preserved Drive circuit/report snapshot and available recordings or captures.
+
 An AVR assembly project exploring LCD interfacing, interrupt-driven inputs, stepper control, environmental sensing and later pressure/status-display work on the **ATmega32**. It was developed in Microchip/Atmel Studio with Proteus circuit models.
 
 The original exercise uses a fictional game-themed repulsion-cannon interface, represented with an LED, a stepper motor, an energy counter and display peripherals. This repository collects its firmware revisions and documents their differences.
@@ -27,7 +29,7 @@ Internal Studio solution/project filenames and relative relationships are retain
 | [Later controller circuit](proteus/pressure-display-draft.pdsprj) | Originally named `Level_0+1.pdsprj`, but its stored firmware path points to **`Level3.hex`** |
 | [Design report](docs/embedded-design-report.docx) | Original assembly/peripheral notes and development observations |
 
-The source, project files, circuits and report contents are unchanged. Circuit files were renamed for clarity. Automatic backups, local workspace files, generated build outputs and unrelated personal notes are excluded.
+The source, project files, circuits and report contents are unchanged. Circuit files were renamed for clarity. Automatic backups, local workspace files, locally generated build folders and unrelated personal notes are excluded. The historical firmware binary explicitly supplied in Drive is preserved separately under `submissions/google-drive/`.
 
 ## Concepts explored
 
